@@ -29,7 +29,7 @@ body {
   background-color: var(--pale-blue);
   display: flex;
   flex-direction: column;
-  justify-content: space-around;
+  justify-content: center;
   align-items: center;
   text-align: center;
   font-family: 'Red Hat Display', sans-serif;
