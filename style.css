@@ -36,8 +36,8 @@ body {
 }
 
 .container {
-  width: 20%;
-  height: 80%;
+  min-width: 20%;
+  min-height: 80%;
   margin-top: 5%;
   background-color: #fff;
   border-radius: 10px;
